@@ -34,7 +34,7 @@ I found these websites useful in developing this software:
 
 * [W3 School](https://www.w3schools.com/)
 * [roadmap](https://roadmap.sh/)
-*
+
 
 ## Future Work
 
